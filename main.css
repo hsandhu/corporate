@@ -1,0 +1,13 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.hero {
+  font-size: 5.75rem;
+  font-weight: 700;
+}
+
+.contact a {
+  font-size: 2rem;
+  color: teal;
+}
